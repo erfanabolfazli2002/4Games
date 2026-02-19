@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screen.unity
+    guid: 1ef77042647f75640b1bf9242fe847e0
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 43d58574738f51a4298e80cc240af762
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 7c8e05a094218e44396afe78a97bc490
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 58dcb97dc7864cc449133c65de91ffa7
+  - enabled: 0
+    path: Assets/Drop Game/Scenes/DropGame.unity
+    guid: a014f0c7ada18be4bae0daae6a48711f
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: a7af784146368684587acb2b01a16932
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: 6f24083090a443445b48b0ddc0860600
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 4a7900d59ee740f43ab9fcda50a8d126
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 31a8c8a96e6e91640a991e5111af17a2
+  - enabled: 0
+    path: Assets/Chrome-Dinosaur-Clone-main/Chrome Dinosaur/Assets/Scenes/Game.unity
+    guid: 0caaaa7dcd4ca7141b20b220b09393d8
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 864382e622c63c14f8e2df6b3a022978, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
